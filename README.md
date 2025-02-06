@@ -42,17 +42,3 @@ This project is a virtual paint application that uses a webcam to track hand mov
 4. To clear the canvas, hover your finger over the "CLEAR" button.
 5. Press `q` to quit the program.
 
----
-
-## Known Issues
-
-- Hand tracking accuracy may vary based on lighting conditions and camera quality.
-- The program currently supports only one hand for drawing.
-
----
-
-## Future Enhancements
-
-- Support for multi-hand drawing.
-- Adding more color options and brush sizes.
-- Improving tracking for low-light environments.

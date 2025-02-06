@@ -32,13 +32,4 @@ This project is a virtual paint application that uses a webcam to track hand mov
 3. **Color Selection**: By moving the index finger over specific color buttons on the top of the screen, you can switch between colors.
 4. **Clear Button**: To erase the canvas, hover your finger over the "CLEAR" button.
 
----
-
-## Usage Instructions
-
-1. Run the program and ensure your webcam is enabled.
-2. Raise your index finger to start drawing on the virtual canvas.
-3. Hover your index finger over the color buttons to switch colors.
-4. To clear the canvas, hover your finger over the "CLEAR" button.
-5. Press `q` to quit the program.
 
